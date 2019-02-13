@@ -28,6 +28,20 @@ h2 {
   background-origin: content-box;
 }
 
+.status-bar {
+  width: 100%;
+  height: 24px;
+  background-color: rgba(9, 60, 129, 0.6);
+  text-align: right;
+  padding: 4px 16px;
+}
+
+.status-bar img {
+  height: 16px;
+  width: 16px;
+  margin-left: 4px;
+}
+
  .row {
    padding: 26px 16px;
 }
